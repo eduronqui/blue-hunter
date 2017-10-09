@@ -2,7 +2,7 @@
   "name": "blue-hunter",
   "version": "1.0.0",
   "description": "Api de teste para blue-hunter",
-  "main": "app.js",
+  "main": "app/app.js",
   "scripts": {
     "start": "nodemon .",
     "serve": "pm2 start app.js --name=\"blue-hunter\" --no-daemon"
